@@ -87,7 +87,9 @@
   </tr>
 </table>
 
-    
+ <div class="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313vszipczcctydntbd3aqbsgepq&width=600" alt="Spotify Recently Played">
+  </div>   
   
 
 
