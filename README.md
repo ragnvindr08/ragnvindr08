@@ -35,9 +35,6 @@
     </a>
     <br />
     <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
   </p>
 
   <p align="center">
@@ -87,7 +84,7 @@
   </tr>
 </table>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Ragnvindr08&width=600)
+
   
 
 
