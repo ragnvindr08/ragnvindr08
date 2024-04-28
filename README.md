@@ -8,7 +8,7 @@
 |     3| LINUX command       |
 
 </details>
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=transparent" alt="GitHub Streak" /></a>
 ### Hi there 👋
 * 👂 My name is Ragnvindr
 * 👩 Pronouns: Him
@@ -17,7 +17,7 @@
 * 🤝 I’m looking to collaborate on Github
 * 🤔 I’m looking for help with Github
 * 💬 Ask me about any information
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=youtube-dark" alt="GitHub Streak" /></a>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -26,7 +26,6 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
 
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Alt Text](https://raw.githubusercontent.com/ragnvindr08/Information/main/Screenshot%202024-01-19%203.48.58%20AM.png)
 
 
