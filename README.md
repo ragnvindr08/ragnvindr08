@@ -9,7 +9,7 @@
 
 </details>
 
-[![MasterHead](https://raw.githubusercontent.com/ragnvindr08/ragnvindr08/main/banner.png)](https://github.com/ragnvindr08)
+
 
 <p align="center">
   <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
