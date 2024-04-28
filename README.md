@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ragnvindr08&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
   
 
 
