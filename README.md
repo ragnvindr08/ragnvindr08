@@ -119,6 +119,8 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
+<img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
+<img src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehHLLgIqfsnk-ELFD-5lB9uKs7e6s2gP6TT1XFLJo5Q&s" alt="sublime" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeamet-ZXZ7ByLdHgkOnra9ULB0wqoHmZqeSLwYe_WQ&s" alt="linux" width="45" height="45"/>
