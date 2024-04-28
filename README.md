@@ -9,9 +9,10 @@
 
 </details>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=transparent" alt="GitHub Streak" /></a><a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=highcontrast" alt="GitHub Streak" /></a>
 
-### Hi there 👋
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=youtube-dark" alt="GitHub Streak" /></a>
+
 * 👂 My name is Ragnvindr
 * 👩 Pronouns: Him
 * 🔭 I’m currently working on Github
@@ -19,9 +20,6 @@
 * 🤝 I’m looking to collaborate on Github
 * 🤔 I’m looking for help with Github
 * 💬 Ask me about any information
-
-* 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=youtube-dark" alt="GitHub Streak" /></a>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
