@@ -9,9 +9,7 @@
 
 </details>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=transparent" alt="GitHub Streak" /></a><a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=highcontrast" alt="GitHub Streak" /></a>
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=youtube-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient)](https://git.io/streak-stats)
 
 * 👂 My name is Ragnvindr
 * 👩 Pronouns: Him
