@@ -154,5 +154,4 @@
 <br>
 
 ![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
-![Pair Programming VSCode](https://che.eclipseprojects.io/assets/img/pair-programming-vscode/pair-programming-vscode.gif)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
