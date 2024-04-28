@@ -88,11 +88,11 @@
 <table align="center">
    <tr>
      <td align="center">   
-  <img alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5c58b86e8dfc8c2d0d700050/1618359920603-Y4YHJDAMBSESIX35ZXD1/ezgif.com-gif-maker+%285%29.gif" >
+  <img alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c58b86e8dfc8c2d0d700050/1618359920603-Y4YHJDAMBSESIX35ZXD1/ezgif.com-gif-maker+%285%29.gif" >
   </td>
     
   <td align="center">
-  <img  alt="Coding" width="320" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
+  <img  alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
   </td>
    </tr>  
 </table>
