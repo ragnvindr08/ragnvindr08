@@ -87,12 +87,14 @@
 
 <table>
    <tr>
-  <td align="center">   
-  <img  alt="Coding" width="350" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" >
+     <td align="center">   
+  <img alt="Coding" width="320" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" >
   </td>
+    
   <td align="center">   
-  <img alt="Coding" width="350" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" >
+  <img  alt="Coding" width="320" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" >
   </td>
+ 
   <td align="center">
   <img  alt="Coding" width="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
   </td>
