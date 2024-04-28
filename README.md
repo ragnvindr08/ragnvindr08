@@ -15,6 +15,9 @@
   <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
   <h3 align="center">Ragnvindr Trophy</h3>
   <p align="center">🏆 Status Trophy</p>
+  
+![](https://komarev.com/ghpvc/?username=your-github-username)
+  
 </p>
 
 <div align="center">
@@ -127,6 +130,6 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 
