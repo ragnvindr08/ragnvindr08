@@ -103,10 +103,7 @@
 * 🤔 I’m looking for help with Github
 * 💬 Ask me about any information
 
-
-
-</p>
-![Alt Text](https://raw.githubusercontent.com/ragnvindr08/Information/main/Screenshot%202024-01-19%203.48.58%20AM.png)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313vszipczcctydntbd3aqbsgepq&count=1)
 
 
 
