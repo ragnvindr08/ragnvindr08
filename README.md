@@ -9,7 +9,7 @@
 
 </details>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient)](https://git.io/streak-stats) ![ragnvindr08 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient)](https://git.io/streak-stats) ![ragnvindr08 GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnvindr08&theme=dark&show_icons=true)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
