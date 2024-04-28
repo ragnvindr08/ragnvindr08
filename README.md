@@ -117,7 +117,21 @@
    </tr>  
 </table>
  
- 
+ <p align="center">
+  <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h3 align="center">Ragnvindr Trophy</h3>
+  <p align="center">🏆 Status Trophy</p>
+  
+
+  
+</p>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ragnvindr08&theme=onedark)](https://github.com/ragnvindr08/github-profile-trophy)
+
+</div>
+
 
 <br>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
