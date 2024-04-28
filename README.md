@@ -123,7 +123,7 @@
   <img alt="Coding" width="400" src="https://media.tenor.com/-f0oW6O9V9AAAAAM/cyberpunk-hacker.gif" >
   </td>
   <td align="center">   
-  <img  alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" >
+  <img  alt="Coding" width="400" src="https://user-images.githubusercontent.com/261501/143030396-f0f82a21-c1c4-4a84-ac06-9a4407465382.gif" >
   </td>
   <td align="center">
   <img  alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
