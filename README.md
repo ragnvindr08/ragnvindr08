@@ -8,7 +8,7 @@
 |     3| LINUX command       |
 
 </details>
-[![MasterHead](https://raw.githubusercontent.com/ragnvindr08/ragnvindr08/main/banner.png)(your GitHub link)
+[![MasterHead](https://raw.githubusercontent.com/ragnvindr08/ragnvindr08/main/banner.png)](https://github.com/ragnvindr08)
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
