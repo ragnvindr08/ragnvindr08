@@ -76,11 +76,13 @@
   </p>
 </p>
 
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient" alt="GitHub Streak" /></a>
+</div>
 
-   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient" alt="GitHub Streak" /></a>
-
-
-   ![ragnvindr08 GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnvindr08&theme=dark&show_icons=true)
+ <div class="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&theme=dark&show_icons=true" alt="ragnvindr08 GitHub Stats">
+    </div>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
