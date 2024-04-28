@@ -11,7 +11,7 @@
 
 [![MasterHead](https://raw.githubusercontent.com/ragnvindr08/ragnvindr08/main/banner.png)](https://github.com/ragnvindr08)
 
-  <img align="right" alt="Coding" width="400" src="add your link  here">
+  <img align="center" alt="Coding" width="400" src="https://che.eclipseprojects.io/assets/img/pair-programming-vscode/pair-programming-vscode.gif">
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
