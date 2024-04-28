@@ -79,59 +79,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions/1770">FAQ</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
+    
   </p>
- 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient" alt="GitHub Streak"></a>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&theme=dark&show_icons=true" alt="ragnvindr08 GitHub Stats">
-    </td>
-  </tr>
-</table>
-
-<br>
-<div align="center">
-  
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-</br>
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
-<img src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehHLLgIqfsnk-ELFD-5lB9uKs7e6s2gP6TT1XFLJo5Q&s" alt="sublime" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeamet-ZXZ7ByLdHgkOnra9ULB0wqoHmZqeSLwYe_WQ&s" alt="linux" width="45" height="45"/>
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
-</p>
-
-<br>
-
-![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
-
-
  <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
     ·
@@ -157,5 +106,53 @@
   </p>
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ragnvindr08&theme=sunset-gradient" alt="GitHub Streak"></a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&theme=dark&show_icons=true" alt="ragnvindr08 GitHub Stats">
+    </td>
+  </tr>
+</table>
+
+<br>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<div align="center">
+  
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+</br>
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
+<img src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehHLLgIqfsnk-ELFD-5lB9uKs7e6s2gP6TT1XFLJo5Q&s" alt="sublime" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeamet-ZXZ7ByLdHgkOnra9ULB0wqoHmZqeSLwYe_WQ&s" alt="linux" width="45" height="45"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
+</p>
+
+<br>
+
+![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
