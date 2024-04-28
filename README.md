@@ -19,7 +19,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ragnvindr08)](https://github.com/ragnvindr08/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ragnvindr08&theme=onedark)](https://github.com/ragnvindr08/github-profile-trophy)
 
 </div>
 
