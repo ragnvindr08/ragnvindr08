@@ -117,7 +117,20 @@
   </tr>
 </table>
 
- <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<table>
+   <tr>
+  <td align="center">   
+  <img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" >
+  </td>
+  <td align="center">   
+  <img  alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
+  </td>
+   </tr>  
+</table>
+ 
  
 
 <br>
