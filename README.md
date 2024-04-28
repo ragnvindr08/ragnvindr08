@@ -11,7 +11,7 @@
 
 [![MasterHead](https://raw.githubusercontent.com/ragnvindr08/ragnvindr08/main/banner.png)](https://github.com/ragnvindr08)
 
-  <img align="center" alt="Coding" width="250" src="https://che.eclipseprojects.io/assets/img/pair-programming-vscode/pair-programming-vscode.gif">
+  <img align="center" alt="Coding" width="250" src="https://che.eclipseprojects.io/assets/img/pair-programming-vscode/pair-programming-vscode.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
