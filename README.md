@@ -92,7 +92,7 @@
   </td>
     
   <td align="center">
-  <img  alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
+  <img  alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-a2618ab5e5902a8ec7be34c19a8c8f6d" >
   </td>
    </tr>  
 </table>
