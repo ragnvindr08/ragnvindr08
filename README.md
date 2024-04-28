@@ -135,6 +135,5 @@
 * 🤝 I’m looking to collaborate on Github
 * 🤔 I’m looking for help with Github
 * 💬 Ask me about any information
-
-![Pair Programming VSCode](https://che.eclipseprojects.io/assets/img/pair-programming-vscode/pair-programming-vscode.gif)
+</p>
 
