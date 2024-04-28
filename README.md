@@ -17,7 +17,11 @@
   <p align="center">🏆 Status Trophy</p>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ragnvindr08)](https://github.com/ragnvindr08/github-profile-trophy)
+
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
