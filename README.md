@@ -116,6 +116,8 @@
   </tr>
 </table>
 
+<br>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -134,7 +136,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  
+</br>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -146,6 +148,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeamet-ZXZ7ByLdHgkOnra9ULB0wqoHmZqeSLwYe_WQ&s" alt="linux" width="45" height="45"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
 </p>
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
