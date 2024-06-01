@@ -37,7 +37,7 @@
     <br />
   </p>
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ragnvindr08/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
   <p align="center">
     <a href="#all-demos">View Demo</a>
