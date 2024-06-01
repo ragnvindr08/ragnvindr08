@@ -174,3 +174,6 @@
 
 ![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
 
+![Alt Text](https://raw.githubusercontent.com/ragnvindr08/Information/main/Screenshot%202024-01-19%203.48.58%20AM.png)
+
+
