@@ -37,7 +37,7 @@
     <br />
   </p>
 
- ![Snake animation](https://github.com/ragnvindr08/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 
   <p align="center">
     <a href="#all-demos">View Demo</a>
@@ -93,6 +93,13 @@
   <img alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c58b86e8dfc8c2d0d700050/1618359920603-Y4YHJDAMBSESIX35ZXD1/ezgif.com-gif-maker+%285%29.gif" >
   </td>
     
+ <div align="center">
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnvindr08&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+<br>
+    
   <td align="center">
   <img  alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-a2618ab5e5902a8ec7be34c19a8c8f6d" >
   </td>
@@ -130,7 +137,7 @@
 </table>
 
 <br>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I have want to learned</h2>
 <div align="center">
   
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -166,4 +173,4 @@
 <br>
 
 ![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
