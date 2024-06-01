@@ -37,6 +37,8 @@
     <br />
   </p>
 
+![Snake animation](https://github.com/ragnvindr08/ragnvindr08/blob/output/github-contribution-grid-snake.svg)
+
   <p align="center">
     <a href="#all-demos">View Demo</a>
     ·
