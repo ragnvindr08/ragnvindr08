@@ -1,18 +1,6 @@
-<details>
-<summary>My top language</summary>
+<hr>
+<h2 align="center">Ragnvindr08 Stats</h2>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| HTML/CSS/JS    |
-|     3| LINUX command       |
-
-</details>
-
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Ragnvindr08 Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -36,7 +24,6 @@
     <br />
     <br />
   </p>
-
 
 
   <p align="center">
@@ -86,29 +73,49 @@
     </td>
   </tr>
 </table>
-
-<table align="center">
-   <tr>
-     <td align="center">   
-  <img alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c58b86e8dfc8c2d0d700050/1618359920603-Y4YHJDAMBSESIX35ZXD1/ezgif.com-gif-maker+%285%29.gif" >
-  </td>
-    
  <div align="center">
   <a href="https://github.com/eagrundy">
    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnvindr08&layout=compact&langs_count=16&theme=dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-<br>
-    
+   <br>
+   <hr>
+   <h3 align="center">Projects</h3>
+   <hr>
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/webocode/main/Screenshot%202024-01-24%205.51.21%20AM.png" >
+  </td>
   <td align="center">
-  <img  alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-a2618ab5e5902a8ec7be34c19a8c8f6d" >
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-16%203.35.13%20PM.png?raw=true" >
+    <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/webocode/main/Screenshot%202023-12-19%204.41.27%20AM.png" >
+  </td>
   </td>
    </tr>  
 </table>
+   
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-18%203.02.41%20PM.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-16%203.35.40%20PM.png?raw=true" >
+    <td align="center">
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-18%202.55.26%20PM.png?raw=true" >
+  </td>
+  </td>
+   </tr>  
+</table>
+<hr>
 <br>
+   
  <table>
  <p align="center">
   <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+
   <h3 align="center">Ragnvindr Trophy</h3>
   <p align="center">🏆 Status Trophy</p>
   
@@ -137,7 +144,7 @@
 </table>
 
 <br>
-<h2> 🚀 &nbsp;Some Tools I have want to learned</h2>
+<h2> 🚀 &nbsp;Some Tools I have Experienced</h2>
 <div align="center">
   
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -157,10 +164,7 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
-</br>
-
 <p align="center">
 <img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
 <img src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png" alt="vscode" width="45" height="45"/>
@@ -168,6 +172,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehHLLgIqfsnk-ELFD-5lB9uKs7e6s2gP6TT1XFLJo5Q&s" alt="sublime" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeamet-ZXZ7ByLdHgkOnra9ULB0wqoHmZqeSLwYe_WQ&s" alt="linux" width="45" height="45"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d7c4936-0de6-419c-9f06-3910c8d84873/d3f2yju-7aaa93ec-a4c3-4ad6-bcc7-f36ff78fcfc4.png" alt="linux" width="45" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:800/1*q0MELQz32va4JQUgao6PJw.jpeg" alt="NGINX" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGRc8VKGVN024ktFZzQ5HJTta8jA3qj9YzWAEXR-F6945gpP7LgRF1FWaenam2v5bJzA&amp;usqp=CAU" alt="Python Django Logo" width="45" height="45"/>
+<img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVzj5k7PuDh5sjvbbkDMU-yDUoSye36qlkDgbP2qVtkUh9CWXPscJVIEVoxKdjZgnzzA&usqp=CAU" alt="zeet" width="45" height="45"/>
 </p>
 
 <br>
