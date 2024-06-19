@@ -126,7 +126,7 @@
 </div>
    <br>
    <hr>
-   <h3 align="center">Projects</h3>
+   <h3 align="center">Example Projects</h3>
    <hr>
 <table align="center">
    <tr>
