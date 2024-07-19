@@ -126,8 +126,36 @@
 </div>
    <br>
    <hr>
-   <h3 align="center">Example Projects</h3>
+   <h3 align="center">My Projects</h3>
    <hr>
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.26.06%20AM.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.23.53%20AM.png" >
+   
+  </td>
+   </tr>  
+</table>
+   
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.25.35%20AM.png" >
+  </td>
+   <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.24.27%20AM.png" >
+  </td>
+  
+  
+  </td>
+   </tr>  
+</table>
+<hr>
+<br>
+
 <table align="center">
    <tr>
      <td align="center">   
