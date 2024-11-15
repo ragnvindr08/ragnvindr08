@@ -128,6 +128,23 @@
    <hr>
    <h3 align="center">My Projects</h3>
    <hr>
+
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/home.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/settings.png" >
+   <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/signin.png" >
+   
+  </td>
+   </tr>  
+</table>
+
+<hr>
+    
 <table align="center">
    <tr>
      <td align="center">   
@@ -139,6 +156,8 @@
   </td>
    </tr>  
 </table>
+
+
    
 <table align="center">
    <tr>
