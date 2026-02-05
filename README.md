@@ -1,5 +1,5 @@
 
-<h2 align="center">My Portfolio</h2> 
+<h1 align="center">My Portfolio</h1>
 
 # 👋 Hi, I'm John Steven I. Caspe
 
