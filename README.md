@@ -1,5 +1,24 @@
 <hr>
 <h2 align="center">My Portfolio</h2> 
+
+# 👋 Hi, I'm John Steven I. Caspe
+
+🎓 **Bachelor of Science in Information Technology (BSIT)**  
+🏫 **Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)**
+
+---
+
+## 🚀 About Me
+I am a motivated BSIT student with hands-on experience in **web and mobile application development**. I enjoy building systems that solve real-world problems and continuously improving my programming skills through projects and collaboration.
+
+---
+
+## 📌 Projects
+Here you’ll find my academic and personal projects related to:
+- Information Systems  
+- Mobile Applications  
+- Web-Based Systems  
+- Data-driven Applications  
 <div align="center">
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -38,7 +57,47 @@
    <br>
    <hr>
    <h3 align="center">My Projects</h3>
+   <table align="center">
+      <tr>
+     <td align="center">
+Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation System
+   <div align="center"   justify-content: center;">
+  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/610587319_1590886205280174_8160895672511828396_n.png" width="380" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/610747088_1370355281025682_1225899929002174405_n.png" width="320" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/611128225_2885709748286634_4991605091445512007_n.png" width="350" style="margin: 10px;">
+  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/619725457_906689418374717_7797343942134035975_n.png?raw=true" width="430" style="margin: 10px;">
+  </td>
+   </tr>  
+</table>
+</div>
+
+
+   <table align="center">
+            <tr>
+     <td align="center">
+        AgriAssist: A Mobile-Based Support Tool and Information
+   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/77b5038b-2370-409f-8718-7675414407a4.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/b462a168-a79c-4093-b2f1-0b45a918559e.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/0524148d-abe1-4ca4-85f1-a421e001b5a6.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/385dd470-20ed-4f89-9a40-fab840365b48.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/62e4ea98-5680-4bac-87a2-7c6bc3fc9d9d.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/680e4820-bd00-440e-a3c9-410d31793acb.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/87ce681d-be69-4bbc-8450-67493b524162.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/8ea0dac2-124e-4f71-9c53-cc2c8bc46fde.jpg" width="150" style="margin: 10px;">
+        </td>
+   </tr>  
+</div>
+
    <hr>
+   <table align="center">
+      Devbox: Social Media Website
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/home.png" >
+  </td>
+
+</table>
 
 <table align="center">
    <tr>
@@ -58,6 +117,7 @@
     
 <table align="center">
    <tr>
+        ConnectUs and WeboCode: School Project
      <td align="center">   
   <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.26.06%20AM.png" >
   </td>
@@ -71,6 +131,7 @@
 
    
 <table align="center">
+ 
    <tr>
      <td align="center">   
   <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.25.35%20AM.png" >
@@ -116,20 +177,7 @@
 <hr>
 <br>
    
- <table>
- <p align="center">
-  <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
 
-  <h3 align="center">Ragnvindr Trophy</h3>
-  <p align="center">🏆 Status Trophy</p>
-  
-<div align="center">
-
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ragnvindr08&theme=onedark)](https://github.com/ragnvindr08/github-profile-trophy)
-<hr>
-</div>
-</table>
 
 
 <h2> 🚀 &nbsp;Some Tools I have Experienced</h2>
@@ -165,6 +213,10 @@
 <img src="https://media.licdn.com/dms/image/C561BAQHDnw3jPc3HsA/company-background_10000/0/1588183934551/pythonanywhere_cover?e=2147483647&v=beta&t=BTrp5lz4RhgRYVIWpbpPpQKnf7ULDxbYM57GV47pA_A" alt="pythonanywhere" width="180" height="auto"/>
 <img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" alt="ubunta" width="130" height="auto"/> 
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
+<img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="ngrok" width="130" height="auto"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhOqtIwKwqkbTYqQ4lTST_hdBHKTT8baWKg&s" alt="ngrok" width="70" height="auto"/>
+
+
 
 </p>
 
