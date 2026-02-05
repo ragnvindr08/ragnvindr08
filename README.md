@@ -1,4 +1,4 @@
-<hr>
+
 <h2 align="center">My Portfolio</h2> 
 
 # 👋 Hi, I'm John Steven I. Caspe
@@ -175,7 +175,32 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
    </tr>  
 </table>
 <hr>
-<br>
+
+College Certificates
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-06%20012509.png">
+    </td>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-06%20012538.png">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://github.com/ragnvindr08/imagesrc/blob/main/Annotation%202026-02-06%20012602.png?raw=true">
+    </td>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-06%20012625.png">
+    </td>
+  </tr>
+</table>
+
+
    
 
 
@@ -215,6 +240,9 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
 <img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="ngrok" width="130" height="auto"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhOqtIwKwqkbTYqQ4lTST_hdBHKTT8baWKg&s" alt="ngrok" width="70" height="auto"/>
+<img width="90" height="auto" alt="image" src="https://github.com/user-attachments/assets/5b92bc1f-56b3-4155-9de3-bad87f44a406" /><hr>
+
+
 
 
 
