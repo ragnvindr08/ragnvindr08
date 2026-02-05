@@ -18,7 +18,8 @@ Here you’ll find my academic and personal projects related to:
 - Information Systems  
 - Mobile Applications  
 - Web-Based Systems  
-- Data-driven Applications  
+- Data-driven Applications
+- Design and Editing
 <div align="center">
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -251,9 +252,5 @@ College Certificates
 <br>
  <hr>
  
-![Alt text](https://github.com/ragnvindr08/ragnvindr08/blob/main/banner.png?raw=true)
- <hr>
- 
-![Alt Text](https://raw.githubusercontent.com/ragnvindr08/Information/main/Screenshot%202024-01-19%203.48.58%20AM.png)
- <hr>
+
 
