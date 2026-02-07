@@ -177,8 +177,19 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
 </table>
 <hr>
 
-College Certificates
 <table align="center">
+   CIsco Certificates
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="850"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20165226.png">
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+   College Certificates
   <tr>
     <td align="center">
       <img alt="Coding" width="450"
