@@ -39,6 +39,51 @@ Here you’ll find my academic and personal projects related to:
 </table>
 
 
+---
+
+<table align="center">
+  <!-- Logo -->
+  <tr>
+    <td align="center" colspan="2">
+      <img alt="Coding" width="150"
+        src="https://1000logos.net/wp-content/uploads/2019/03/TESDA-Logo.png">
+    </td>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20173555.png">
+    </td>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20173825.png">
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20173858.png">
+    </td>
+    <td align="center">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20173916.png">
+    </td>
+  </tr>
+
+  <!-- SOLO CENTER IMAGE -->
+  <tr>
+    <td align="center" colspan="2">
+      <img alt="Coding" width="450"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-07%20173928.png">
+    </td>
+  </tr>
+</table>
+
+
 
 <table align="center">
    College Certificates
