@@ -38,6 +38,19 @@ Here you’ll find my academic and personal projects related to:
   </tr>
 </table>
 
+---
+
+<table align="center"> 
+  <tr>
+      <br> <br>
+           CiteExpo2022
+    <td align="center">
+      <img alt="Coding" width="650"
+        src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/certif1.jpg">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
