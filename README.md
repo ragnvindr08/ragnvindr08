@@ -42,7 +42,6 @@ Here you’ll find my academic and personal projects related to:
 
 <table align="center"> 
   <tr>
-      <br> <br>
            CiteExpo2022
     <td align="center">
       <img alt="Coding" width="650"
