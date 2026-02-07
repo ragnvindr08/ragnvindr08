@@ -114,7 +114,7 @@ Here you’ll find my academic and personal projects related to:
 
 
 
-<h2> 🚀 &nbsp;Some Tools I have Explored and Experienced</h2>
+<h2> 🚀 &nbsp;Some Tools I have Explore and Experienced</h2>
 <div align="center">
   
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
