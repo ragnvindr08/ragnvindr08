@@ -249,6 +249,15 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
               BRGY 346 System: Web-Based Barangay Information and Management System
   <img alt="Coding" width="750" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-08%20210500.png" >
   </td>
+     <hr>
+   <table align="center">
+     
+   <tr>
+     <td align="center">   
+              Optical Character Recognition Screenshot to Text (tesseract)     
+              <p>The most common tesseract definition is a 4th-dimension analogue for a cube. That definition may not be particularly intuitive, as it requires an understanding of several concepts in geometry and physics. Essentially, a tesseract is a way of visualizing the concept of time in a four-dimensional universe.</p>
+  <img alt="Coding" width="750" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-08%20233526.png" >
+  </td>
 
 </table>
 
