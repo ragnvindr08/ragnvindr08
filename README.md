@@ -243,6 +243,17 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
 
    <hr>
    <table align="center">
+     
+   <tr>
+     <td align="center">   
+              BRGY 346 System: Web-Based Barangay Information and Management System
+  <img alt="Coding" width="750" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-08%20210500.png" >
+  </td>
+
+</table>
+
+   <hr>
+   <table align="center">
       Devbox: Social Media Website
    <tr>
      <td align="center">   
