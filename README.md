@@ -55,6 +55,13 @@ and automated workflows).
   <img src="https://skillicons.dev/icons?i=postgres,redis,firebase,docker,git,githubactions,linux,kali&perline=8" />
 </p>
 
+---
+```console
+ragnvindr08:~$ cat journey.txt
+From HTML, CSS, and JavaScript in 2021 to a full-stack,  
+Containerized Architecture & Security and AI Engineer .
+```
+
 ```console
 ragnvindr08:~$ ls skills/
 DOMAIN              SKILLS & TECHNOLOGIES
@@ -246,6 +253,60 @@ ragnvindr08:~/my-fullstack-app$ cp apps/api/.env.example apps/api/.env
 ragnvindr08:~/my-fullstack-app$ npm install
 ragnvindr08:~/my-fullstack-app$ docker-compose up
 ragnvindr08:~/my-fullstack-app$ _
+```
+## <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2361AFEF" height="26" /> My Project Structure: Security
+```console
+ragnvindr08:~$ cat owasp_top10.txt
+ 
+A01  Broken Access Control
+     Risk : Users act outside their intended permissions.
+     Fix  : Deny by default, enforce RBAC on the server.
+     Mine : RBAC, auth.middleware.ts
+ 
+A02  Security Misconfiguration
+     Risk : Insecure defaults, open ports, missing headers.
+     Fix  : Hardened configs, security headers, least privilege.
+     Mine : nginx.conf headers, network-policy.yaml
+ 
+A03  Software Supply Chain Failures
+     Risk : Compromised dependencies, build tools, or pipelines.
+     Fix  : Pin and audit dependencies, secure CI/CD.
+     Mine : studying
+ 
+A04  Cryptographic Failures
+     Risk : Weak or missing encryption of sensitive data.
+     Fix  : TLS everywhere, strong hashing, protect keys.
+     Mine : HSTS, sealed-secrets.yaml
+ 
+A05  Injection
+     Risk : Untrusted input runs as SQL, OS, or script code.
+     Fix  : Parameterized queries, input validation.
+     Mine : Prisma (parameterized queries)
+ 
+A06  Insecure Design
+     Risk : Missing security controls at the design stage.
+     Fix  : Threat modeling, secure design patterns.
+     Mine : studying
+ 
+A07  Authentication Failures
+     Risk : Weak login, credential stuffing, broken sessions.
+     Fix  : Strong password hashing, rate limits, MFA.
+     Mine : auth.service.ts, rateLimiter.middleware.ts
+ 
+A08  Software or Data Integrity Failures
+     Risk : Trusting unverified code, updates, or data.
+     Fix  : Signatures, integrity checks, safe deserialization.
+     Mine : studying
+ 
+A09  Security Logging & Alerting Failures
+     Risk : Attacks go unnoticed without logs and alerts.
+     Fix  : Structured logs, monitoring, alerting.
+     Mine : logger.ts (Winston)
+ 
+A10  Mishandling of Exceptional Conditions
+     Risk : Poor error handling leaks data or fails open.
+     Fix  : Safe error messages, fail securely.
+     Mine : error.middleware.ts
 ```
 ---
 
