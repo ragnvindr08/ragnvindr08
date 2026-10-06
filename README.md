@@ -39,10 +39,13 @@ Location : Quezon City, PH
 
 ```console
 ragnvindr08:~$ cat about.md
-BSIT graduate with robust backend engineering foundations and practical internship experience building
-high-performance RESTful APIs. Specializing in Python, FastAPI, and PostgreSQL with a strong layer of Linux
-environment setup and network security fundamentals. Actively transitioning into AI Engineering, with hands-on
-technical knowledge of LLM application architecture, RAG pipelines, and automated multi-agent workflows.
+BSIT Graduate (2026) and Backend Engineer specializing in building, architecting, and testing secure RESTful APIs using
+Python and FastAPI. Proven hands-on experience through a comprehensive backend internship managing data layers with
+PostgreSQL and JSON payloads. Adept at maximizing development speed by integrating AI-assisted engineering tools like
+Cursor, GitHub Copilot, Claude, and ChatGPT. Possesses a strong infrastructural baseline in Linux environment
+hardening (Ubuntu, Kali) and Cisco Cybersecurity principles to systematically defend application architectures. Actively
+transitioning core backend architectures into autonomous AI Engineering implementations, focusing on LLM integrations and
+RAG pipelines.
 ```
 
 ---
