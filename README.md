@@ -184,18 +184,6 @@ ragnvindr08:~$ cat certifications.txt
   - Installing, Configuring, and Maintaining Computer Systems
 
 ---
-
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%2361AFEF" height="26" /> GitHub Performance
-
-```console
-ragnvindr08:~$ github-stats --user ragnvindr08
-```
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ragnvindr08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnvindr08&layout=compact&theme=tokyonight" />
-</div>
-
 ---
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2361AFEF" height="26" /> Let's Connect!
@@ -207,3 +195,8 @@ or phone at +63 994 817 2661.
 
 ragnvindr08:~$ _
 ```
+
+<hr />
+<p align="center">
+  <sub>© 2026 Code and profile curated by <b><a href="https://github.com/ragnvindr08">ragnvindr08</a></b>. All rights reserved.</sub>
+</p>
