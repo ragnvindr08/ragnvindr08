@@ -4,7 +4,7 @@
   <svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://w3.org">
     <!-- You can use common system fonts here that render beautifully as vectors -->
     <text x="50%" y="40" font-family="'Georgia', serif" font-size="36" font-weight="bold" fill="#24292e" text-anchor="middle">
-      FULL-STACK SOFTWARE ENGINEER
+      FULL-STACK SOFTWARE ENGINEER (Open to Work)
     </text>
     
   </svg>
