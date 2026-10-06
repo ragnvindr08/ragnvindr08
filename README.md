@@ -184,7 +184,6 @@ ragnvindr08:~$ cat certifications.txt
   - Installing, Configuring, and Maintaining Computer Systems
 
 ---
----
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2361AFEF" height="26" /> Let's Connect!
 
