@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer;" alt="Typing SVG" />
   </a>
 </p>
 
