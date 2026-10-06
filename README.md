@@ -3,9 +3,9 @@
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Backend+Developer;FastAPI+%26+Python+Specialist;AI+%26+Automation+Engineer;Cybersecurity+%26+Linux+Enthusiast)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Backend+Engineering;FastAPI+%26+Python+Specialist;AI+%26+Automation+Engineer;Cybersecurity+%26+Linux+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- CONTACT BADGES -->
