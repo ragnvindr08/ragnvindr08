@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;My+Roadmaps(roadmap.sh)+Guide;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:johnstevenimperialcaspe08@gmail.com"><img src="https://img.shields.io/badge/Email-johnstevenimperialcaspe08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+639948172661"><img src="https://img.shields.io/badge/Phone-+63%20994%20817%202661-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Quezon%20City,%20PH-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Manila%20City,%20PH-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
