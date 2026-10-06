@@ -1,7 +1,5 @@
 <!-- ANIMATED HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=JOHN%20STEVEN%20I.%20CASPE&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
-</p>
+<p align="center"> <img src="banner (1).svg" alt="JOHN STEVEN I. CASPE" width="100%" /> </p> <!-- TYPING ANIMATION SUBTITLE --> <p align="center">
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
