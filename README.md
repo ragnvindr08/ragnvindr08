@@ -264,6 +264,15 @@ ragnvindr08:~/my-fullstack-app$ npm install
 ragnvindr08:~/my-fullstack-app$ docker-compose up
 ragnvindr08:~/my-fullstack-app$ _
 ```
+
+
+<div align="center">
+  <img src="owaspapi.png" width="100%" height="auto" />
+</div>
+
+
+
+
 ## <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2361AFEF" height="26" /> My Project Structure: Security
 
 ```console
