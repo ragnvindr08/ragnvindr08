@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Backend+Engineering;FastAPI+%26+Python+Specialist;AI+%26+Automation+Engineer;Cybersecurity+%26+Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;HTML+%2B+CSS+%2B+JavaScript;Python+%26+Backend+Fundamentals;Full+Stack+Development;Linux+%26+Cybersecurity;Top+10+OWASP;AI+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -255,6 +255,7 @@ ragnvindr08:~/my-fullstack-app$ docker-compose up
 ragnvindr08:~/my-fullstack-app$ _
 ```
 ## <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2361AFEF" height="26" /> My Project Structure: Security
+
 ```console
 ragnvindr08:~$ cat owasp_top10.txt
  
@@ -312,6 +313,30 @@ A10  Mishandling of Exceptional Conditions
 
 ## <img src="https://api.iconify.design/lucide:brain.svg?color=%2361AFEF" height="26" /> Featured Project
 
+### <img src="https://api.iconify.design/lucide:file-text.svg?color=%2361AFEF" height="22" /> OWASP-Guard Engine by Ragnvindr08
+
+```console
+ragnvindr08:~$ cat projects/featured/pentest-cli.md
+Stack: Python | Typer | HTTPX | Rich | Docker
+
+Core Concept:
+  An asynchronous, modular command-line interface engineered by Ragnvindr08
+  target networks for web misconfigurations and OWASP Top 10 vulnerabilities.
+
+Architecture & Workflow:
+  1. Target Reconnaissance
+     Orchestrates asynchronous parallel worker loops using HTTPX to 
+     inspect missing security headers and open endpoints.
+  2. Vulnerability Auditing
+     Fuzzes parameters and validates client-side defenses against active
+     injection and cross-site scripting (XSS) vectors.
+  3. Isolated Execution
+     Packages the scanning binaries into a rootless, hardened Docker 
+     container to guarantee runtime isolation from host environments.
+  4. Structured Reporting
+     Parses raw vulnerability metrics and structures clean, machine-readable 
+     JSON exports alongside real-time visual terminal feeds.
+```
 ### <img src="https://api.iconify.design/lucide:file-text.svg?color=%2361AFEF" height="22" /> Document Q&A with RAG
 
 ```console
