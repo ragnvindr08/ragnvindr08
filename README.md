@@ -1,9 +1,17 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center"> <img src="banner (1).svg" alt="JOHN STEVEN I. CASPE" width="100%" /> </p> <!-- TYPING ANIMATION SUBTITLE --> <p align="center">
-
+<div align="center">
+  <svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://w3.org">
+    <!-- You can use common system fonts here that render beautifully as vectors -->
+    <text x="50%" y="40" font-family="'Georgia', serif" font-size="36" font-weight="bold" fill="#24292e" text-anchor="middle">
+      FULL-STACK SOFTWARE ENGINEER
+    </text>
+    
+  </svg>
+</div>
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
-  <img src="hacker.png" width="60" align="middle">
+ <!-- <img src="hacker.png" width="60" align="middle">-->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;My+Roadmaps+(roadmap.sh)+Guide;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer" alt="Typing SVG" align="middle">
   </a>
