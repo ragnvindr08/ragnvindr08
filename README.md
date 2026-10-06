@@ -39,11 +39,10 @@ Location : Quezon City, PH
 
 ```console
 ragnvindr08:~$ cat about.md
-BSIT graduate with backend internship experience specializing in Python and
-FastAPI. I architect, build, and test RESTful APIs with JSON and PostgreSQL.
-Powered by a foundation in Linux (Ubuntu, Kali) and Cisco Cybersecurity, I am
-actively transitioning into AI Engineering (LLM applications, RAG pipelines,
-and automated workflows).
+BSIT graduate with robust backend engineering foundations and practical internship experience building
+high-performance RESTful APIs. Specializing in Python, FastAPI, and PostgreSQL with a strong layer of Linux
+environment setup and network security fundamentals. Actively transitioning into AI Engineering, with hands-on
+technical knowledge of LLM application architecture, RAG pipelines, and automated multi-agent workflows.
 ```
 
 ---
