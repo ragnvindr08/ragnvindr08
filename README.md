@@ -60,7 +60,7 @@ RAG pipelines.
 ---
 ```console
 ragnvindr08:~$ cat journey.txt
-From HTML, CSS, and JavaScript in 2021 to a full-stack,  
+From HTML, CSS, and JavaScript in 2021 to a Full-Stack Software Engineer,  
 Containerized Architecture & Security and AI Engineer .
 ```
 
