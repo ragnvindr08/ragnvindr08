@@ -36,9 +36,6 @@ Location : Quezon City, PH
 ---
 
 ## <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2361AFEF" height="26" /> About Me
-<p align="center">
-  <img src="journey.png" width="1000" style="border-radius: 500px;">
-</p>
 
 ```console
 ragnvindr08:~$ cat about.md
