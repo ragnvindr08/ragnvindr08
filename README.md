@@ -50,7 +50,7 @@ and automated workflows).
 
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2361AFEF" height="26" /> Technical Skill
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,react,ts,js&perline=8" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,redis,firebase,docker,git,githubactions,linux,kali&perline=8" />
 </p>
