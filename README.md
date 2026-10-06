@@ -82,7 +82,171 @@ ragnvindr08:~$ cat currently_expanding.txt
 NLP, Machine Learning, LangChain, Vector Databases (Pinecone),
 Claude Code, Make, Zapier
 ```
-
+---
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%2361AFEF" height="26" /> My Project Structure
+ 
+```console
+ragnvindr08:~$ cd my-fullstack-app
+ 
+ragnvindr08:~/my-fullstack-app$ cat README.txt
+A full-stack TypeScript monorepo managed with Turborepo.
+Frontend, backend, database, and shared types live in one repo,
+with free-tier and production (Kubernetes) deployment paths.
+```
+### <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%2361AFEF" height="22" /> Root Overview
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree -L 2 -a
+.
+├── .github/                 # CI/CD workflows + PR template
+├── apps/                    # Deployable applications
+│   ├── web/                 # Frontend (React + Vite)
+│   └── api/                 # Backend (Node.js + Express)
+├── packages/                # Shared local packages
+│   ├── database/            # Prisma persistence layer
+│   └── types/               # Shared TypeScript contracts
+├── k8s/                     # Production Kubernetes manifests
+├── .gitleaks.toml           # Secret-scanning rules
+├── .gitignore               # Global ignore rules
+├── docker-compose.yml       # Single-command local orchestration
+├── package.json             # Monorepo root manifest
+├── tsconfig.json            # Strict multi-workspace TS config
+└── turbo.json               # Turborepo task pipeline
+```
+ 
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%2361AFEF" height="22" /> Frontend (apps/web)
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree apps/web
+apps/web
+├── src/
+│   ├── components/
+│   │   ├── ui/                      # Design system primitives (Shadcn pattern)
+│   │   │   ├── Button.tsx           # Polymorphic button with twMerge overrides
+│   │   │   └── Input.tsx            # Input field with focus ring
+│   │   └── layout/                  # Page structural layouts
+│   │       ├── Navbar.tsx
+│   │       └── Sidebar.tsx
+│   ├── features/                    # Domain-driven, isolated modules
+│   │   └── authentication/
+│   │       ├── components/          # Feature-bound components
+│   │       │   ├── LoginForm.tsx
+│   │       │   └── RegisterForm.tsx
+│   │       ├── hooks/
+│   │       │   └── useAuth.ts       # Feature state hook
+│   │       └── authService.ts       # API request layer for auth
+│   ├── hooks/                       # Global hooks (e.g. useTheme)
+│   ├── pages/                       # Route-level view wrappers
+│   │   ├── Dashboard.tsx
+│   │   └── Login.tsx
+│   ├── App.tsx                      # App shell + routing table
+│   ├── index.css                    # Light/dark CSS design tokens
+│   └── main.tsx                     # DOM bootstrapper
+├── .env.example                     # Client-side config template
+├── Dockerfile                       # Multi-stage build served via Nginx
+├── nginx.conf                       # Reverse proxy + security headers (CSP, HSTS)
+├── postcss.config.js
+├── tailwind.config.ts               # Design tokens (colors, typography)
+├── vercel.json                      # Free tier: edge routing, proxies, CORS
+├── package.json
+└── vite.config.ts
+```
+ 
+### <img src="https://api.iconify.design/lucide:server.svg?color=%2361AFEF" height="22" /> Backend (apps/api)
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree apps/api
+apps/api
+├── src/
+│   ├── controllers/                 # HTTP interface layer
+│   │   └── auth.controller.ts
+│   ├── middleware/                  # Request gatekeepers
+│   │   ├── auth.middleware.ts       # Token verification + context loading
+│   │   ├── error.middleware.ts      # Structured, user-safe error payloads
+│   │   └── rateLimiter.middleware.ts  # Brute-force / DDoS protection
+│   ├── routes/
+│   │   ├── auth.routes.ts
+│   │   └── index.ts
+│   ├── services/                    # Business logic + state mutations
+│   │   └── auth.service.ts          # Password hashing + authorization
+│   ├── utils/
+│   │   └── logger.ts                # Structured logging (Winston)
+│   ├── swagger.ts                   # OpenAPI definition
+│   └── app.ts                       # Express bootstrap, mounts /docs
+├── .env.example                     # Server variables + secrets template
+├── Dockerfile                       # Multi-stage build, non-root Node user
+├── render.yaml                      # Free tier: Render + PostgreSQL IaC
+└── package.json
+```
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ cat apps/api/ARCHITECTURE.txt
+Request Flow:
+  routes  ->  middleware  ->  controllers  ->  services  ->  database
+```
+ 
+### <img src="https://api.iconify.design/lucide:package.svg?color=%2361AFEF" height="22" /> Shared Packages (packages/)
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree packages
+packages
+├── database/                        # @myapp/database
+│   ├── prisma/
+│   │   ├── migrations/              # Version-controlled schema history
+│   │   └── schema.prisma            # Database schema source of truth
+│   ├── client.ts                    # Prisma client singleton
+│   └── package.json
+└── types/                           # @myapp/types
+    ├── src/
+    │   ├── api.types.ts             # Shared request/response DTOs
+    │   └── index.ts                 # Type exports
+    └── package.json
+```
+ 
+### <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2361AFEF" height="22" /> CI/CD (.github/)
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree .github
+.github
+├── workflows/
+│   ├── ci.yml                       # Lint, typecheck, tests on pull requests
+│   ├── cd.yml                       # Build Docker images + trigger K8s rollouts
+│   ├── deploy-api.yml               # Free tier: backend -> Render
+│   └── deploy-web.yml               # Free tier: frontend -> Vercel
+└── PULL_REQUEST_TEMPLATE.md         # Engineering checklist for merges
+```
+ 
+### <img src="https://api.iconify.design/lucide:ship.svg?color=%2361AFEF" height="22" /> Kubernetes (k8s/)
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ tree k8s
+k8s
+├── api-deployment.yaml              # Replicas, health checks, resource limits
+├── web-deployment.yaml              # Frontend Nginx rollout config
+├── ingress.yaml                     # SSL termination + traffic routing
+├── network-policy.yaml              # Zero-trust: DB reachable only from API pod
+└── sealed-secrets.yaml              # Git-safe encrypted cluster credentials
+```
+ 
+### <img src="https://api.iconify.design/lucide:cloud.svg?color=%2361AFEF" height="22" /> Deployment Paths
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ cat deployment.txt
+PATH         BACKEND                FRONTEND                 PIPELINE
+-----------  ---------------------  -----------------------  --------------------------
+Free Tier    Render (render.yaml)   Vercel (vercel.json)     deploy-api.yml + deploy-web.yml
+Production   Docker + Kubernetes    Docker + Nginx + K8s     cd.yml + k8s/ manifests
+```
+ 
+### <img src="https://api.iconify.design/lucide:play.svg?color=%2361AFEF" height="22" /> Quick Start
+ 
+```console
+ragnvindr08:~/my-fullstack-app$ cp apps/web/.env.example apps/web/.env
+ragnvindr08:~/my-fullstack-app$ cp apps/api/.env.example apps/api/.env
+ragnvindr08:~/my-fullstack-app$ npm install
+ragnvindr08:~/my-fullstack-app$ docker-compose up
+ragnvindr08:~/my-fullstack-app$ _
+```
 ---
 
 ## <img src="https://api.iconify.design/lucide:brain.svg?color=%2361AFEF" height="26" /> Featured Project
@@ -111,7 +275,6 @@ Architecture & Workflow:
      Benchmarked against test query suites to optimize chunk sizes and
      retrieval precision.
 ```
-
 ---
 
 ## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2361AFEF" height="26" /> Academic Projects
