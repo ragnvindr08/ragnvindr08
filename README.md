@@ -3,12 +3,11 @@
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
-  <img src="hacker.png" width="60">
+  <img src="hacker.png" width="60" align="middle">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=400&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;My+Roadmaps(roadmap.sh)+Guide;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi!+This+is+My+Journey;Started+Coding+in+2021;Using+HTML+%2B+CSS+%2B+JavaScript;Move+to+Python+%26+Backend+Fundamentals;My+Roadmaps+(roadmap.sh)+Guide;Move+to+Architectural+Directory+Blueprint;Move+to+Full+Stack+Development;Move+to+Linux+%26+Cybersecurity;Move+to+Top+10+OWASP;Now+study+AI+Engineer" alt="Typing SVG" align="middle">
   </a>
 </p>
-
 <!-- CONTACT BADGES -->
 <p align="center">
   <a href="mailto:johnstevenimperialcaspe08@gmail.com"><img src="https://img.shields.io/badge/Email-johnstevenimperialcaspe08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -37,6 +36,9 @@ Location : Quezon City, PH
 ---
 
 ## <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2361AFEF" height="26" /> About Me
+<p align="center">
+  <img src="journey.png" width="1000" style="border-radius: 500px;">
+</p>
 
 ```console
 ragnvindr08:~$ cat about.md
