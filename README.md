@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>I'm John Steven I. Caspe 👋</h3>
+  <h3>I'm John Steven I. Caspe</h3>
 
   <p>
     Welcome to my GitHub profile! I am a passionate developer focused on building modern web applications, scalable backend services, and clean software architectures.
@@ -32,10 +32,11 @@ ragnvindr08:~$ whoami
 JOHN STEVEN I. CASPE
 
 ragnvindr08:~$ cat roles.txt
+ragnvindr08:~$ roadmap.sh
 Backend Developer
-FastAPI & Python Specialist
+FastAPI & Python 
 AI & Automation Engineer
-Cybersecurity & Linux Enthusiast
+Cybersecurity & Linux 
 
 ragnvindr08:~$ cat contact.txt
 Email    : johnstevenimperialcaspe08@gmail.com
