@@ -3,7 +3,7 @@
   <h3>I'm John Steven I. Caspe</h3>
 
   <p>
-    Welcome to my GitHub profile! I am a passionate developer focused on building modern web applications, scalable backend services, and clean software architectures.
+    Welcome to my GitHub profile! I am a passionate developer focused on building modern web applications, scalable backend services, and clean software architectures and practices.
   </p>
 
 
@@ -46,7 +46,7 @@ Location : Quezon City, PH
 
 ---
 
-## <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2361AFEF" height="26" /> About Me
+## About Me
 
 ```console
 ragnvindr08:~$ cat about.md
@@ -61,7 +61,7 @@ RAG pipelines.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2361AFEF" height="26" /> Technical Skill
+##  Technical Skill
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,react,ts,js&perline=8" /><br/>
@@ -95,7 +95,7 @@ DevOps & OS         Docker, Git, GitHub Actions, SonarQube,
                     Linux (Ubuntu, Kali), Windows
 ```
 
-### <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%2361AFEF" height="22" /> Currently Expanding
+###  Currently Expanding
 
 ```console
 ragnvindr08:~$ cat currently_expanding.txt
@@ -103,7 +103,7 @@ NLP, Machine Learning, LangChain, Vector Databases (Pinecone),
 Claude Code, Make, Zapier
 ```
 ---
-## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%2361AFEF" height="26" /> My Project Structure
+##  My Project Structure
  
 ```console
 ragnvindr08:~$ cd my-fullstack-app
@@ -113,7 +113,7 @@ A full-stack TypeScript monorepo managed with Turborepo.
 Frontend, backend, database, and shared types live in one repo,
 with free-tier and production (Kubernetes) deployment paths.
 ```
-### <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%2361AFEF" height="22" /> Root Overview
+###  Root Overview
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree -L 2 -a
@@ -134,7 +134,7 @@ ragnvindr08:~/my-fullstack-app$ tree -L 2 -a
 └── turbo.json               # Turborepo task pipeline
 ```
  
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%2361AFEF" height="22" /> Frontend (apps/web)
+###  Frontend (apps/web)
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree apps/web
@@ -172,7 +172,7 @@ apps/web
 └── vite.config.ts
 ```
  
-### <img src="https://api.iconify.design/lucide:server.svg?color=%2361AFEF" height="22" /> Backend (apps/api)
+###  Backend (apps/api)
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree apps/api
@@ -205,7 +205,7 @@ Request Flow:
   routes  ->  middleware  ->  controllers  ->  services  ->  database
 ```
  
-### <img src="https://api.iconify.design/lucide:package.svg?color=%2361AFEF" height="22" /> Shared Packages (packages/)
+###  Shared Packages (packages/)
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree packages
@@ -223,7 +223,7 @@ packages
     └── package.json
 ```
  
-### <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2361AFEF" height="22" /> CI/CD (.github/)
+###  CI/CD (.github/)
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree .github
@@ -236,7 +236,7 @@ ragnvindr08:~/my-fullstack-app$ tree .github
 └── PULL_REQUEST_TEMPLATE.md         # Engineering checklist for merges
 ```
  
-### <img src="https://api.iconify.design/lucide:ship.svg?color=%2361AFEF" height="22" /> Kubernetes (k8s/)
+###  Kubernetes (k8s/)
  
 ```console
 ragnvindr08:~/my-fullstack-app$ tree k8s
@@ -248,7 +248,7 @@ k8s
 └── sealed-secrets.yaml              # Git-safe encrypted cluster credentials
 ```
  
-### <img src="https://api.iconify.design/lucide:cloud.svg?color=%2361AFEF" height="22" /> Deployment Paths
+###  Deployment Paths
  
 ```console
 ragnvindr08:~/my-fullstack-app$ cat deployment.txt
@@ -258,7 +258,7 @@ Free Tier    Render (render.yaml)   Vercel (vercel.json)     deploy-api.yml + de
 Production   Docker + Kubernetes    Docker + Nginx + K8s     cd.yml + k8s/ manifests
 ```
  
-### <img src="https://api.iconify.design/lucide:play.svg?color=%2361AFEF" height="22" /> Quick Start
+###  Quick Start
  
 ```console
 ragnvindr08:~/my-fullstack-app$ cp apps/web/.env.example apps/web/.env
@@ -276,7 +276,7 @@ ragnvindr08:~/my-fullstack-app$ _
 
 
 
-## <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2361AFEF" height="26" /> My Project Structure: Security
+##  My Project Structure: Security
 
 ```console
 ragnvindr08:~$ cat owasp_top10.txt
@@ -333,9 +333,9 @@ A10  Mishandling of Exceptional Conditions
 ```
 ---
 
-## <img src="https://api.iconify.design/lucide:brain.svg?color=%2361AFEF" height="26" /> Featured Project
+## Featured Project
 
-### <img src="https://api.iconify.design/lucide:file-text.svg?color=%2361AFEF" height="22" /> OWASP-Guard Engine by Ragnvindr08
+### OWASP-Guard Engine by Ragnvindr08
 
 ```console
 ragnvindr08:~$ cat projects/featured/pentest-cli.md
@@ -359,7 +359,7 @@ Architecture & Workflow:
      Parses raw vulnerability metrics and structures clean, machine-readable 
      JSON exports alongside real-time visual terminal feeds.
 ```
-### <img src="https://api.iconify.design/lucide:file-text.svg?color=%2361AFEF" height="22" /> Document Q&A with RAG
+###  Document Q&A with RAG
 
 ```console
 ragnvindr08:~$ cat projects/featured/document-qa-rag.md
@@ -385,9 +385,9 @@ Architecture & Workflow:
 ```
 ---
 
-## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2361AFEF" height="26" /> Academic Projects
+## Academic Projects
 
-### <img src="https://api.iconify.design/lucide:house.svg?color=%2361AFEF" height="22" /> HomeEase
+###  HomeEase
 
 ```console
 ragnvindr08:~$ cat projects/academic/HomeEase.md
@@ -400,7 +400,7 @@ Capstone Project (2025 - 2026) | Team Lead / Lead Developer
 Tech Stack: React, TypeScript, Django REST Framework
 ```
 
-### <img src="https://api.iconify.design/lucide:landmark.svg?color=%2361AFEF" height="22" /> BRGY 346 Management System
+###  BRGY 346 Management System
 
 ```console
 ragnvindr08:~$ cat projects/academic/BRGY346.md
@@ -414,7 +414,7 @@ Backend System (2025) | Project Lead / Lead Backend Developer
 Tech Stack: React, REST APIs, RBAC
 ```
 
-### <img src="https://api.iconify.design/lucide:wheat.svg?color=%2361AFEF" height="22" /> AgriAssist: Agricultural Support App
+###  AgriAssist: Agricultural Support App
 
 ```console
 ragnvindr08:~$ cat projects/academic/AgriAssist.md
@@ -429,9 +429,9 @@ Tech Stack: Android, Firebase, REST APIs
 
 ---
 
-## <img src="https://api.iconify.design/lucide:scroll-text.svg?color=%2361AFEF" height="26" /> Education & Credentials
+##  Education & Credentials
 
-### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2361AFEF" height="22" /> Academic Background
+###  Academic Background
 
 ```console
 ragnvindr08:~$ cat education.txt
@@ -441,22 +441,22 @@ ragnvindr08:~$ cat education.txt
 - PHINMA - Saint Jude College, Manila (SY 2022 - 2023)
 ```
 
-### <img src="https://api.iconify.design/lucide:trophy.svg?color=%2361AFEF" height="22" /> Certifications & Recognitions
+###  Certifications & Recognitions
 
 ```console
 ragnvindr08:~$ cat certifications.txt
 ```
-
-- <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2361AFEF" height="18" /> **Introduction to Cybersecurity** — *Cisco Networking Academy (Feb 2026)*
-- <img src="https://api.iconify.design/lucide:award.svg?color=%2361AFEF" height="18" /> **Lead Programmers Award** — *CITExpo 2022, PHINMA Saint Jude College (Oct 2022)*
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%2361AFEF" height="18" /> **TESDA Online Certifications (Dec 2021):**
+-  **TESDA Java Programming NC III Certifications** — *Technical Education and Skills Development Authority (Oct 2026)*
+-  **Introduction to Cybersecurity** — *Cisco Networking Academy (Feb 2026)*
+-  **Lead Programmers Award** — *CITExpo 2022, PHINMA Saint Jude College (Oct 2022)*
+-  **TESDA Online Certifications (Dec 2021):**
   - Introduction to CSS
   - Setting Up Computer Servers & Networks
   - Installing, Configuring, and Maintaining Computer Systems
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%2361AFEF" height="26" /> Let's Connect!
+##  Let's Connect!
 
 ```console
 ragnvindr08:~$ contact --email johnstevenimperialcaspe08@gmail.com --phone "+63 994 817 2661"
